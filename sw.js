@@ -43,8 +43,8 @@ self.addEventListener('push', event => {
     const data = event.data ? event.data.text() : 'Default notification message!';
     const options = {
       body: data,
-      icon: '/images/icons/icon-192x192.png',
-      badge: '/images/icons/icon-192x192.png'
+      icon: '/images/icons/icon-192x192.jpg',
+      badge: '/images/icons/icon-192x192.jpg'
     };
     event.waitUntil(
       self.registration.showNotification('PWA Notification', options)
