@@ -11,4 +11,4 @@ Offline mode:
 ![7](https://github.com/user-attachments/assets/3dafc479-8335-4f4d-98bd-1c8ede8ecfef|width=400).
 
 App install page:
-![6](https://github.com/user-attachments/assets/b4f4dc89-30fa-40f9-85c4-5656fb072509|width=400).
+![6](https://github.com/user-attachments/assets/b4f4dc89-30fa-40f9-85c4-5656fb072509 | width=400).
